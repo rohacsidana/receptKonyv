@@ -1,0 +1,71 @@
+{
+  "receptek": [
+    {
+      "nev": "Mozzarellával töltött rántott rigatoni",
+      "elkIdo": "36",
+      "hozzavalok": [
+        "250 g rigatoni tészta",
+        "240 g mozzarella (3 csomag mozzarella snack rudacska)",
+        "2 ek olívaolaj",
+        "1 teáskanál só",
+        "200 g kukoricaliszt",
+        "5 db tojás",
+        "200 g zsemlemorzsa",
+        "100 g marinara szósz (tálaláshoz)",
+        "1 marék bazsalikom (tálaláshoz)",
+        "10 dl napraforgó olaj"
+      ],
+      "elkeszites": [
+        "Egy nagy fazék vizet forraljunk fel, tegyünk bele egy teáskanál sót, majd adjuk hozzá a rigatonit. Keverjük el, és főzzük, körülbelül 6 percig, amíg a tészta al dente nem lesz.",
+        "A tésztát szűrjük le, és tegyük egy nagy tálba. Adjuk hozzá az olívaolajat, és keverjük el, hogy mindenhol bevonja.",
+        "Amíg hűl a tészta, vágjuk félbe, majd hosszába a mozzarellarudacskákat. Egyesével töltsünk meg minden főtt tésztacsövet egy kis darab sajttal, ezután pedig helyezzük sütőpapíros tepsire, és 20-30 percre tegyük a fagyasztóba.",
+        "Melegítsünk fel 1 liter olajat egy nagy edényben. Tegyük a kukoricalisztet, a tojásokat és a zsemlemorzsát 3 különálló tálba.",
+        "Minden rigatonit forgassunk lisztbe (rázzuk le a felesleget), majd mártsuk bele a felvert tojásba, végül hempergessük zsemlemorzsába. Vastagon vonja be a panír, ki ne szökjön az olvadt sajt!",
+        "Süssük ki a rigatonikat bő forró olajban, körülbelül 2-3 perc alatt. Egyszerre 6-8 darabot süssünk csak, nehogy összeragadjanak!",
+        "A kész tésztasnackeket csöpögtessük le rácson vagy papírtörlőn. Szórjuk meg friss bazsalikommal és/vagy parmezánnal. Marinara szósszal tálaljuk."
+      ],
+      "kepSrc": "rigatoni.jpg"
+    },
+    {
+      "nev": "Rozmaringos répakrémleves",
+      "elkIdo": "30",
+      "hozzavalok": [
+        "40 dkg sárgarépa",
+        "1 közepes db vöröshagyma",
+        "3 ek szőlőmagolaj",
+        "1 teáskanál rozmaring",
+        "2 dl főzőtejszín",
+        "só ízlés szerint",
+        "bors ízlés szerint",
+        "15 g pattogatott kukorica (kb.)",
+        "1 db leveskocka (zöldség)",
+        "5 dl víz (kb.)"
+      ],
+      "elkeszites": [
+        "A felkockázott vöröshagymát a szőlőmagolajon üvegesre pároljuk, majd hozzáadjuk a megpucolt, felkarikázott répát, és jól átpirítjuk. Ezután felöntjük vízzel, hozzáadjuk a leveskockát - vagy ha van, zöldséglevet - és puhára főzzük. Közben ízlés szerint sózzuk és borsozzuk.",
+        "Ha a répa megpuhult, botmixer segítségével krémesre turmixoljuk, majd hozzákeverjük a tejszínt, a finomra vágott rozmaringlevelet, és az egészet pár perc alatt összeforraljuk.",
+        "A levest tányérba merjük, meglocsoljuk kevés szőlőmagolajjal, és popcornnal fogyasztjuk."
+      ],
+      "kepSrc": "repa.jpg"
+    },
+    {
+      "nev": "Klasszikus madártej",
+      "elkIdo": "20",
+      "hozzavalok": [
+        "4 db tojásfehérje",
+        "1 csipet só",
+        "2 ek porcukor",
+        "800 ml tej",
+        "1 db vanília",
+        " 4 db tojássárgája",
+        "70 g cukor",
+        " 1 csipet só"
+      ],
+      "elkeszites": ["A tojásfehérjét egy csipet sóval kezdjük el kemény habbá verni, majd adjuk hozzá a két evőkanál porcukrot, és verjük teljesen keményre.",
+       "A tejhez adjuk hozzá a vaníliarúd kikapart magjait, majd forraljuk fel fel, és kanállal szaggassuk bele a tojáshabból galuskákat. Két-három percig főzzük, majd óvatosan for- dítsuk meg, újabb két-három perc, és már szedhetjük is ki egy üres tálba.",
+        "A tojássárgáját egy csipet sóval és a cukorral keverjük jó habosra, öntsük hozzá egy keveset a langyos tejből, majd azonnal keverjük simára. Adjuk hozzá a maradék tejet, keverjük el, és öntsd vissza az egészet az edénybe.",
+        "Alacsony lángon, folyamatosan kevergetve addig főzzük, amíg szépen be nem sűrűsödik, majd hagyjuk kihűlni. Tegyük a tetejére a galuskákat, és az egészet rakjuk be a hűtőbe legalább 2-3 órával azelőtt, hogy tálalni szeretnénk."],
+      "kepSrc": "madartej.jpg"
+    }
+  ]
+}
